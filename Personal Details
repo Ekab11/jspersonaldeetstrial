@@ -1,0 +1,7 @@
+function personalDetails() {
+console.log("My name is Ekab, I am from Nigeria, and I am 5'5 in height");
+ }
+
+
+personalDetails();
+
